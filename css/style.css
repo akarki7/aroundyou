@@ -704,7 +704,7 @@ section.hero-text h1{
 /* page headline
 ==================================== */
 
-#inner-headline{background: url('../img/img01.jpg') center -294px no-repeat;margin: 0;background-size: cover;padding: 36px 0;position: relative;width: 100%;}
+#inner-headline{background: url('../img/banner.jpg') center -294px no-repeat;margin: 0;background-size: cover;padding: 36px 0;position: relative;width: 100%;}
 
 #inner-headline:before {
     content: '';
@@ -1857,3 +1857,6 @@ padding-top: 3px;
 	/* The width is the width of the web page */
   }
  
+.JacobsImprint{
+	color:blue;
+}
