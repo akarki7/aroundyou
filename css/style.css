@@ -1844,9 +1844,22 @@ padding-top: 3px;
 		float:left;
 	}
 
-	.flexslider .flex-caption {
+	.flex-caption{
+		bottom: 30%;
+	}
+
+	.flex-caption img{
 		display:none;
 	}
+
+	.flex-caption .flex-caption-header{
+		font-size: 25px;
+	}
+
+	.flex-caption .flex-caption-sub{
+		font-size: 16px;
+	}
+
 
 
 	.cta-text {
