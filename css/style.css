@@ -879,9 +879,11 @@ form#commentform textarea {
 
 .about-text li {
 	margin-bottom: 10px;
-	//
 	font-weight: bold;
 	list-style: none;
+}
+.about-text p {
+	font-size: large;
 }
 
  
@@ -1873,6 +1875,10 @@ padding-top: 3px;
 		font-size:14px;
 	}
 
+	.bannerwork{
+		display: none;
+	}
+
 
 }
 
@@ -1896,4 +1902,23 @@ padding-top: 3px;
 
 .left-image{
 	margin-left: 50px;
+}
+
+.bottomfeedback{
+	font-size: medium;
+	color:#000;
+	align-items: center;
+	margin-left: auto;
+}
+.bottomfeedback a {
+	color:black;
+	text-decoration: underline;
+}
+
+.bottomfeedback h4 {
+	text-transform:none !important; 
+}
+
+.headingabout{
+	margin-left: 40%;
 }
