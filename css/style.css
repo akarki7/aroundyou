@@ -1879,7 +1879,9 @@ padding-top: 3px;
 		display: none;
 	}
 
-
+	.removeimage{
+		display: none;
+	}
 }
 
 #map {
@@ -1921,8 +1923,4 @@ padding-top: 3px;
 
 .headingabout{
 	margin-left: 40%;
-}
-
-.removeimage{
-	display: none;
 }
